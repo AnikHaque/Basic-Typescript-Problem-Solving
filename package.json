@@ -1,0 +1,21 @@
+{
+  "name": "l2tsa1-basic-typescript-anikhaque",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only problem-4.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@AnikHaque:Programming-Hero-Web-Course4/l2tsa1-basic-typescript-AnikHaque.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "ts-node-dev": "^2.0.0"
+  }
+}
